@@ -1,1 +1,1 @@
-# JDreadme
+# JDGO使用说明
